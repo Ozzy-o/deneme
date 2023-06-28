@@ -2,4 +2,5 @@
  
 ## alt bilgi
 dasdasdadsdasdasdasd
-[lorem ipsum] (http://google.com)
+
+[lorem ipsum](http://google.com)
